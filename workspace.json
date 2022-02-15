@@ -2,6 +2,7 @@
   "version": 2,
   "projects": {
     "ds": "libs/ds",
+    "ds-e2e": "apps/ds-e2e",
     "shop": "apps/shop",
     "shop-e2e": "apps/shop-e2e"
   }
