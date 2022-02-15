@@ -2,3 +2,7 @@
 
 /dist
 /coverage
+
+/apps/shop/node_modules
+/apps/shop/public
+/apps/shop/.cache
