@@ -9,6 +9,7 @@
   },
   "private": true,
   "devDependencies": {
+    "@emotion/babel-plugin": "11.3.0",
     "@nrwl/cli": "13.8.1",
     "@nrwl/cypress": "13.4.6",
     "@nrwl/eslint-plugin-nx": "13.4.6",

@@ -1,6 +1,7 @@
 {
   "version": 2,
   "projects": {
+    "ds": "libs/ds",
     "shop": "apps/shop",
     "shop-e2e": "apps/shop-e2e"
   }
