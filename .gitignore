@@ -8,6 +8,10 @@
 # dependencies
 /node_modules
 
+# environment files
+.env
+.env.development
+
 # IDEs and editors
 /.idea
 .project
@@ -41,3 +45,4 @@ Thumbs.db
 /apps/shop/node_modules
 /apps/shop/public
 /apps/shop/.cache
+
