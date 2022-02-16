@@ -64,6 +64,7 @@
   "dependencies": {
     "@emotion/react": "11.5.0",
     "@emotion/styled": "11.3.0",
+    "contentful": "^9.1.10",
     "core-js": "^3.6.5",
     "gatsby": "4.2.0",
     "gatsby-plugin-image": "2.2.0",
