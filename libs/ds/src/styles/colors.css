@@ -3,40 +3,34 @@
   * @tokens Colors
   * @presenter Color
   */
-  --ds-color-brand-primary-main: #D44527;
-  --ds-color-brand-primary-light: #EA5435;
-  --ds-color-brand-primary-dark: #B73B20;
-  --ds-color-brand-primary-darker: #A3331A;
-
-  --ds-color-brand-secondary-main: #262626;
-  --ds-color-brand-secondary-light: #3E3E3E;
-  --ds-color-brand-secondary-dark: #1A1919;
-  --ds-color-brand-secondary-darker: #0E0E0E;
-
-  --ds-color--ui-primary: #262626;
-  --ds-color--ui-secondary: #828181;
-  --ds-color--ui-tertiary: #EDEDED;
-  --ds-color--ui-quaternary: #FFFFFF;
-  --ds-color--ui-disabled: #DEDEDE;
+    --ds-color--brand-01: #D44527;
+    --ds-color--brand-02: #262626;
+    --ds-color--brand-03: #E1E9EE;
   
-  --ds-color--ui-error-default: #D60000;
-  --ds-color--ui-error-light: #ED1A1A;
-  --ds-color--ui-error-dark: #AB1010;
-  --ds-color--ui-success-default: #138000;
-  --ds-color--ui-success-light: #34AF1F;
-  --ds-color--ui-success-dark: #105E03;
-  --ds-color--ui-alert-default: #DB7C00;
-  --ds-color--ui-alert-light: #EF9827;
-  --ds-color--ui-alert-dark: #B16400;
+    --ds-color--divider-01: #656565;
+    --ds-color--divider-inverse-01: #E9E9E9;
+  
+    --ds-color--background-01: #FAFAFA;
+    --ds-color--background-02: #343434;
+    --ds-color--background-footer-01: #262626;
+    --ds-color--background-navigation-01: #FFFFFF;
+    --ds-color--background-blue-box-01: #F0F4F6;
+  
+    --ds-color--text-heading-01: #262626;
+    --ds-color--text-editorial-01: #262626;
+    --ds-color--text-body-01: #656565;
+    --ds-color--text-support-01: #262626;
+    --ds-color--text-support-02: #949494; 
+    --ds-color--text-footer-01: #E9E9E9;
+    --ds-color--text-footer-02: #FAFAFA;
+    --ds-color--text-on-dark: #D0D0D0;
+  
+    --ds-color--button-background-01: #262626;
+    --ds-color--button-text-inverse-01: #E9E9E9;
+    --ds-color--button-text-02: #FFFFFF;
+    --ds-color--button-text-hover-01: #D34526;
+    --ds-color--button-text-hover-02: #FFFFFF;
 
-  --ds-color--ui-background-1: #dee2e6;
-  --ds-color--ui-background-2: #ced4da;
-
-  --ds-color--text-primary: #262626;
-  --ds-color--text-secondary: #757575;
-  --ds-color--text-disabled: #9C9C9C;
-  --ds-color--text-inverse: #FFFFFF;
-  --ds-color--text-error: #D0421B;
-  --ds-color--text-success: #138000;
-  --ds-color--text-link: #0366D6;
+    --ds-color--error-text-01: #950000;
+    --ds-color--error-container-01: #F4E5E5;
 }
